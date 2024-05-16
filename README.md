@@ -7,7 +7,7 @@ important. To improve the effect of automatic navigation, a
 visual navigation method based on machine learning for vessels 
 is designed, and simulation validation is conducted. 
 
-Firstly, vessel images are captured by using visual sensing technology. 
+First, vessel images are captured by using visual sensing technology. 
 A semantic segmentation model is employed to separate the 
 shoreline from the water region and identify the shoreline. 
 Secondly, based on the identified shoreline, a reference anchor 
